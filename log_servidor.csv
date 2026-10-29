@@ -1,0 +1,17 @@
+﻿Data_Evento;Horario_Evento;Inicio_Sessao;Tempo_Cronometro_s;Tempo_Cronometro_Fmt;Estado_Servidor;Evento_Acao;Duracao_Evento_s;Tempo_Ocioso_Acumulado_s;Tempo_Ocupado_Acumulado_s;Atendimentos_Concluidos;Detalhes
+2026-10-20;10:53:14.109;2026-10-20 10:53:14;0,000;00:00:00.0;Ocioso;CRONOMETRO_LIGADO;0,000;0,000;0,000;0;Servidor inicializado no estado Ocioso
+2026-10-20;10:53:17.939;2026-10-20 10:53:14;3,831;00:00:03.8;Ocupado;INICIO_DE_ATENDIMENTO;3,831;3,831;0,000;0;Transicao: Ocioso -> Ocupado (Permaneceu Ocioso por 3.83s)
+2026-10-20;10:53:20.353;2026-10-20 10:53:14;6,245;00:00:06.2;Ocioso;TERMINO_DE_ATENDIMENTO;2,414;3,831;2,414;1;Transicao: Ocupado -> Ocioso (Duracao deste atendimento: 2.41s)
+2026-10-20;10:53:21.477;2026-10-20 10:53:14;7,322;00:00:07.3;Ocupado;INICIO_DE_ATENDIMENTO;1,077;4,908;2,414;1;Transicao: Ocioso -> Ocupado (Permaneceu Ocioso por 1.08s)
+2026-10-20;10:53:22.932;2026-10-20 10:53:14;8,776;00:00:08.8;Ocioso;TERMINO_DE_ATENDIMENTO;1,454;4,908;3,868;2;Transicao: Ocupado -> Ocioso (Duracao deste atendimento: 1.45s)
+2026-10-20;10:53:24.797;2026-10-20 10:53:14;10,657;00:00:10.7;Ocupado;INICIO_DE_ATENDIMENTO;1,881;6,788;3,868;2;Transicao: Ocioso -> Ocupado (Permaneceu Ocioso por 1.88s)
+2026-10-20;10:53:26.581;2026-10-20 10:53:14;12,427;00:00:12.4;Ocioso;TERMINO_DE_ATENDIMENTO;1,770;6,788;5,638;3;Transicao: Ocupado -> Ocioso (Duracao deste atendimento: 1.77s)
+2026-10-20;10:53:27.626;2026-10-20 10:53:14;13,471;00:00:13.5;Ocupado;INICIO_DE_ATENDIMENTO;1,045;7,833;5,638;3;Transicao: Ocioso -> Ocupado (Permaneceu Ocioso por 1.04s)
+2026-10-20;10:53:29.102;2026-10-20 10:53:14;14,994;00:00:15.0;Ocioso;TERMINO_DE_ATENDIMENTO;1,522;7,833;7,161;4;Transicao: Ocupado -> Ocioso (Duracao deste atendimento: 1.52s)
+2026-10-20;10:53:30.248;2026-10-20 10:53:14;16,125;00:00:16.1;Ocupado;INICIO_DE_ATENDIMENTO;1,131;8,964;7,161;4;Transicao: Ocioso -> Ocupado (Permaneceu Ocioso por 1.13s)
+2026-10-20;10:53:31.859;2026-10-20 10:53:14;17,704;00:00:17.7;Ocioso;TERMINO_DE_ATENDIMENTO;1,579;8,964;8,740;5;Transicao: Ocupado -> Ocioso (Duracao deste atendimento: 1.58s)
+2026-10-20;10:53:32.769;2026-10-20 10:53:14;18,613;00:00:18.6;Ocupado;INICIO_DE_ATENDIMENTO;0,910;9,874;8,740;5;Transicao: Ocioso -> Ocupado (Permaneceu Ocioso por 0.91s)
+2026-10-20;10:53:34.276;2026-10-20 10:53:14;20,137;00:00:20.1;Ocioso;TERMINO_DE_ATENDIMENTO;1,523;9,874;10,263;6;Transicao: Ocupado -> Ocioso (Duracao deste atendimento: 1.52s)
+2026-10-20;10:53:35.275;2026-10-20 10:53:14;21,168;00:00:21.2;Desligado;CRONOMETRO_PARADO_FIM;21,168;10,905;10,263;6;T=21.17s | B=10.26s | Ocioso=10.90s | C=6 | U=48.48% | S=1.71s
+2026-10-20;10:55:03.105;2026-10-20 10:55:03;0,000;00:00:00.0;Ocioso;CRONOMETRO_LIGADO;0,000;0,000;0,000;0;Servidor inicializado no estado Ocioso
+2026-10-20;10:55:04.658;2026-10-20 10:55:03;1,509;00:00:01.5;Ocioso;CRONOMETRO_PAUSADO;0,000;1,509;0,000;0;Contabilizacao de tempo suspensa

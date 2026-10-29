@@ -1,0 +1,24 @@
+
+=====================================================================================
+SESSÃO DE AFERIÇÃO INICIADA EM: 2026-10-20 10:53:14
+=====================================================================================
+[2026-10-20 10:53:14.109] [Cron: 00:00:00.0] [Estado: OCIOSO] -> CRONOMETRO_LIGADO | Servidor inicializado no estado Ocioso
+[2026-10-20 10:53:17.939] [Cron: 00:00:03.8] [Estado: OCUPADO] -> INICIO_DE_ATENDIMENTO | Transicao: Ocioso -> Ocupado (Permaneceu Ocioso por 3.83s)
+[2026-10-20 10:53:20.353] [Cron: 00:00:06.2] [Estado: OCIOSO] -> TERMINO_DE_ATENDIMENTO | Transicao: Ocupado -> Ocioso (Duracao deste atendimento: 2.41s)
+[2026-10-20 10:53:21.477] [Cron: 00:00:07.3] [Estado: OCUPADO] -> INICIO_DE_ATENDIMENTO | Transicao: Ocioso -> Ocupado (Permaneceu Ocioso por 1.08s)
+[2026-10-20 10:53:22.932] [Cron: 00:00:08.8] [Estado: OCIOSO] -> TERMINO_DE_ATENDIMENTO | Transicao: Ocupado -> Ocioso (Duracao deste atendimento: 1.45s)
+[2026-10-20 10:53:24.797] [Cron: 00:00:10.7] [Estado: OCUPADO] -> INICIO_DE_ATENDIMENTO | Transicao: Ocioso -> Ocupado (Permaneceu Ocioso por 1.88s)
+[2026-10-20 10:53:26.581] [Cron: 00:00:12.4] [Estado: OCIOSO] -> TERMINO_DE_ATENDIMENTO | Transicao: Ocupado -> Ocioso (Duracao deste atendimento: 1.77s)
+[2026-10-20 10:53:27.626] [Cron: 00:00:13.5] [Estado: OCUPADO] -> INICIO_DE_ATENDIMENTO | Transicao: Ocioso -> Ocupado (Permaneceu Ocioso por 1.04s)
+[2026-10-20 10:53:29.102] [Cron: 00:00:15.0] [Estado: OCIOSO] -> TERMINO_DE_ATENDIMENTO | Transicao: Ocupado -> Ocioso (Duracao deste atendimento: 1.52s)
+[2026-10-20 10:53:30.248] [Cron: 00:00:16.1] [Estado: OCUPADO] -> INICIO_DE_ATENDIMENTO | Transicao: Ocioso -> Ocupado (Permaneceu Ocioso por 1.13s)
+[2026-10-20 10:53:31.859] [Cron: 00:00:17.7] [Estado: OCIOSO] -> TERMINO_DE_ATENDIMENTO | Transicao: Ocupado -> Ocioso (Duracao deste atendimento: 1.58s)
+[2026-10-20 10:53:32.769] [Cron: 00:00:18.6] [Estado: OCUPADO] -> INICIO_DE_ATENDIMENTO | Transicao: Ocioso -> Ocupado (Permaneceu Ocioso por 0.91s)
+[2026-10-20 10:53:34.276] [Cron: 00:00:20.1] [Estado: OCIOSO] -> TERMINO_DE_ATENDIMENTO | Transicao: Ocupado -> Ocioso (Duracao deste atendimento: 1.52s)
+[2026-10-20 10:53:35.275] [Cron: 00:00:21.2] [Estado: DESLIGADO] -> CRONOMETRO_PARADO_FIM | T=21.17s | B=10.26s | Ocioso=10.90s | C=6 | U=48.48% | S=1.71s
+
+=====================================================================================
+SESSÃO DE AFERIÇÃO INICIADA EM: 2026-10-20 10:55:03
+=====================================================================================
+[2026-10-20 10:55:03.105] [Cron: 00:00:00.0] [Estado: OCIOSO] -> CRONOMETRO_LIGADO | Servidor inicializado no estado Ocioso
+[2026-10-20 10:55:04.658] [Cron: 00:00:01.5] [Estado: OCIOSO] -> CRONOMETRO_PAUSADO | Contabilizacao de tempo suspensa
